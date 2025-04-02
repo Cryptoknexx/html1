@@ -4,12 +4,13 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } f
 
 // Firebase Configuration 
 const firebaseConfig = {
-    apiKey: "AIzaSyAlsu7cWriXDEopgpiGoCqV7gV_S2aZWJc",
-    authDomain: "ruffy-jay-enecita.firebaseapp.com",
-    projectId: "ruffy-jay-enecita",
-    storageBucket: "ruffy-jay-enecita.firebasestorage.app",
-    messagingSenderId: "510731280666",
-    appId: "1:510731280666:web:f16f53bd8d7d5f53270ca3"
+    apiKey: "AIzaSyDk9TOL4slQZjc_KE051uEa2xz2aJOR4vw",
+    authDomain: "kenken-41fd0.firebaseapp.com",
+    projectId: "kenken-41fd0",
+    storageBucket: "kenken-41fd0.firebasestorage.app",
+    messagingSenderId: "484345365338",
+    appId: "1:484345365338:web:e5352c77a1266444b8a963",
+    measurementId: "G-KSJ35016NX"
 };
 
 // Initialize Firebase
